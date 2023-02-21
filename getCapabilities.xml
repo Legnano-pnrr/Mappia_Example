@@ -197,7 +197,7 @@
 				<Title>test_aree</Title>
 				<Abstract>GH:test_aree ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="8.911839622140185" miny="45.59211520602164" maxx="8.919131319550566" maxy="45.59678618912936"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>confine</Title>
 				<Abstract>GH:confine ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="8.865747474964317" miny="45.56805848072112" maxx="8.946165591683457" maxy="45.62366899921458"></LatLonBoundingBox>
